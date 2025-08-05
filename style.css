@@ -1,0 +1,37 @@
+body {
+      background-color: rgb(70, 101, 169);
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 50px;
+}
+
+.calculadora {
+      background: rgb(151, 60, 60);
+      padding: 20px;
+      border-radius: 12px;
+      width: 300px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      position: absolute;
+      left: 10%;
+      top: 50px;
+}
+
+input, select, button {
+      margin: 10px;
+      padding: 8px;
+      width: 80%;
+      font-size: 16px;
+}
+
+.painel {
+      background: rgb(134, 173, 112);
+      padding: 20px;
+      border-radius: 12px;
+      width: 300px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      position: absolute;
+      right: 10%;
+      top: 50px;
+}
